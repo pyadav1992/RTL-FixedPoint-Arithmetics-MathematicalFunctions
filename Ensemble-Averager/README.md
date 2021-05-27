@@ -1,1 +1,1 @@
-This is a time-multiplexed Verilog implementation of an ensemble averager with configurable ensemble size and averaging factor.
+This is a time-multiplexed Verilog implementation of an ensemble averager with configurable ensemble size and averaging factor. The averager is implemented with a fixed point adder and a fixed point multiplier.
